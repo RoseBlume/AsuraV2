@@ -1,7 +1,7 @@
 
 cmake_minimum_required(VERSION 3.14)
 
-project(QQuickStaticHelloWorld LANGUAGES CXX VERSION 1.0.0)
+project(AsuraScans LANGUAGES CXX VERSION 1.0.0)
 
 # Find all required package, if some is missing it will result in error in target_link_libraries
 find_package(Qt5 REQUIRED COMPONENTS
